@@ -7,6 +7,10 @@
   height="450"
 />
 
+<a target="_blank" href="https://lensgo.ai/?via=new">=> Haga clic aquí para obtener más información !</a>
+
+<a target="_blank" href="https://lensgo.ai/?via=new">=> Haga clic aquí para obtener más información !</a>
+
 <h2>Ventajas e inconvenientes de Lensgo AI</h2>
 
 <h3>Ventaja: Interfaz intuitiva y amigable incluso para principiantes</h3>
@@ -29,6 +33,8 @@
   height="450"
 />
 
+<a target="_blank" href="https://lensgo.ai/?via=new">=> Haga clic aquí para obtener más información !</a>
+
 <h3>Inconveniente: Alto consumo de recursos en funciones avanzadas</h3>
 <p>A pesar de sus importantes fortalezas, Lensgo AI requiere en ocasiones un consumo considerable de recursos técnicos para algunas funciones avanzadas, como la transferencia de estilos en vídeos de larga duración o modelos personalizados complejos. Usuarios con equipos menos potentes o conexiones limitadas podrían experimentar ralentizaciones o tiempos prolongados para generar resultados de alta calidad.</p>
 
@@ -42,6 +48,8 @@
 
 <p>El plan gratuito de Lensgo AI puede interesar a quienes desean explorar por primera vez la plataforma. Con funcionalidades base y créditos diarios limitados, esta opción permite valorar la calidad del servicio sin compromiso económico. Sin embargo, implica limitaciones importantes como la inclusión de una marca de agua en los contenidos generados y restricciones importantes en volumen diario. Recomendamos este plan sólo como punto de partida para familiarizarse con las herramientas.</p>
 
+<a target="_blank" href="https://lensgo.ai/?via=new">=> Haga clic aquí para obtener más información !</a>
+
 <h3>Plan Standard: imágenes HD, videos breves y prioridad de procesamiento (9$/mes)</h3>
 
 <p>El plan Standard es una mejora considerable respecto al plan gratuito y ofrece beneficios sólidos por apenas 9 dólares mensuales. Es la elección perfecta para creadores ocasionales o pequeños negocios digitales, ya que entrega:</p>
@@ -52,6 +60,8 @@
   <li>La posibilidad de entrenar hasta 15 modelos personalizados</li>
 </ul>
 <p>Este plan elimina las marcas de agua, fortaleciendo una imagen profesional frente al público.</p>
+
+<a target="_blank" href="https://lensgo.ai/?via=new">=> Haga clic aquí para obtener más información !</a>
 
 <h3>Plan Pro: ideal para profesionales con necesidades mayores (29$/mes)</h3>
 
@@ -78,6 +88,8 @@
 
 <p>Lensgo AI es una innovadora plataforma basada en inteligencia artificial (IA), diseñada para crear y transformar contenido visual mediante tecnologías avanzadas. Este recurso facilita la generación de imágenes, videos o modelos personalizados sin necesidad de conocimientos técnicos. Orientada a creadores digitales, especialistas en marketing y usuarios sin experiencia en diseño, destaca por su facilidad de uso y poder creativo.</p>
 
+<a target="_blank" href="https://lensgo.ai/?via=new">=> Haga clic aquí para obtener más información !</a>
+
 <h3>Generación de imágenes a partir de texto (Text-to-Image)</h3>
 
 <p>La función Text-to-Image permite transformar rápidamente descripciones de texto en imágenes realistas y atractivas. A partir de un simple prompt textual, Lensgo AI ofrece resultados visuales claros, permitiendo una creación gráfica totalmente simplificada. Esta funcionalidad destaca por:</p>
@@ -101,6 +113,8 @@
   <li>Acuarela</li>
   <li>Estilo de tinta</li>
 </ul>
+
+<a target="_blank" href="https://lensgo.ai/?via=new">=> Haga clic aquí para obtener más información !</a>
 
 <p>Una opción potente para destacar piezas audiovisuales, aumentando significativamente su viralidad potencial.</p>
 
@@ -132,3 +146,5 @@
 </tbody></table>
 
 <p>Gracias a esta poderosa herramienta, creativos y empresas pueden captar eficientemente la atención de audiencias digitales.</p>
+
+<a target="_blank" href="https://lensgo.ai/?via=new">=> Haga clic aquí para obtener más información !</a>
